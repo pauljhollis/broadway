@@ -23,7 +23,8 @@ h3 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-    background-image: url("images/the-flatiron-building.png");
+  background-image: url("images/the-flatiron-building.png");
+  width: 100%;
 }
 
 span {
@@ -38,6 +39,7 @@ span {
 
 #head {
   background-image: url("images/the-flatiron-building.png");
+  width: 100%;
 }
 
 #bottom {
