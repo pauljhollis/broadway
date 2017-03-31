@@ -8,6 +8,10 @@ a {
   color: white;
 }
 
+p {
+  font-size: 14px;
+}
+
 h1 {
   font-size: 70px;
   font-weight: bold;
